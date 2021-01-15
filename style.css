@@ -1,0 +1,66 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.menu-bar {
+  background-image: linear-gradient(-90deg, white);
+}
+.nav-link {
+  font-size: 16px;
+  margin: 3px;
+  color: black !important;
+  font-weight: 500;
+}
+.nv {
+  margin-left: 40%;
+}
+.nvimg img {
+  margin-left: 15%;
+}
+.menu-bar .navbar-toggler {
+  padding-right: 20px;
+  outline: none !important;
+  border: none !important;
+}
+.navbar-brand img {
+  width: 200px;
+  margin-top: 5px;
+  margin-left: 20px;
+}
+.orange {
+  color: #ecb44a;
+}
+.blue {
+  color: #373a59;
+}
+.card-price {
+  font-weight: 700;
+  color: #ecb44a;
+}
+#logo-2 img {
+  height: 300px;
+  width: 300px;
+}
+.Image img {
+  height: 50px;
+  width: 50px;
+}
+.Image h5 {
+  font-size: medium;
+  font-weight: 700;
+}
+.paragraph {
+  font-size: small;
+}
+.responsive-card {
+  background-color: white;
+  border-radius: 10px;
+}
+.responsive-footer {
+  background-color: white;
+  border: 0;
+}
+
+.card-body {
+  width: 50%;
+}
